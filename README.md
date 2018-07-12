@@ -11,6 +11,7 @@ Tested up to: 4.8 & WooCommerce 3.1.1
 Version: 1.0.
 
 == Description ==
+
 This plugin acts as an addon for WooCommerce to add a payment method for WooCommerce for accept payment and distribute payment in multi-vendor account.This plugin uses Stripe API to create tokens and charge credit cards. 
 
 = Features =
