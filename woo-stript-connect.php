@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: woo-stript-connect
+ * Plugin Name: woo-stripe-connect
   * Description: This plugin adds a payment option in WooCommerce for Multivendor
   * Author: SynapseIndia
   */
