@@ -1,6 +1,6 @@
 <?php 
-//require_once(get_template_directory().'/stripe-connect-custom/config/config.php');
-require_once(WP_PLUGIN_DIR  .'/woo-stript-connect/lib/stripe-connect-custom/config/config.php');
+
+require_once(WP_PLUGIN_DIR  .'/woo-stripe-connect/lib/stripe-connect-custom/config/config.php');
 
 // initialize a new generic provider
 $provider = new \League\OAuth2\Client\Provider\GenericProvider([

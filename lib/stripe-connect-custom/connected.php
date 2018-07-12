@@ -6,7 +6,7 @@
  */
  session_start();
 
-require_once(WP_PLUGIN_DIR  .'/woo-stript-connect/lib/stripe-connect-custom/oauth/connect.php');
+require_once(WP_PLUGIN_DIR  .'/woo-stripe-connect/lib/stripe-connect-custom/oauth/connect.php');
 
 
 if (isset($account)): 
