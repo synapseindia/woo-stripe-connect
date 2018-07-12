@@ -1,5 +1,3 @@
-# woo-stript-connect
-
 ==== Woo Stript Multivendor Connect Addon ====
 Contributors: SynapseIndia
 Plugin Name: Woo Stript Connect
