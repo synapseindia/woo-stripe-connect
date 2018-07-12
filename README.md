@@ -1,7 +1,8 @@
 # woo-stript-connect
 
 ==== Woo Stript Multivendor Connect Addon ====
-Contributors: SynapseIndia
+
+# Contributors: SynapseIndia
 Plugin Name: Woo Stript Connect
 Tags: WooCommerce plugin stripe alipay bitcoin,stripe alipay bitcoin for WooCommerce,stripe alipay for WooCommerce,stripe WooCommerce plugin,stripe payment gateway for WooCommerce,WooCommerce credit cards payment with stripe,stripe payment refunds,stripe WooCommerce addon,free stripe WooCommerce gateway,stripe for WooCommerce,stripe payment in wordpress
 Author: SynapseIndia
